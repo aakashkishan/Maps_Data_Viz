@@ -1,0 +1,31 @@
+{
+  "name": "map_data_vi",
+  "version": "1.0.0",
+  "description": "Data Visualiation using Static Maps",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakashkishan/Maps_Data_Viz.git"
+  },
+  "keywords": [
+    "Data",
+    "Visualization",
+    "|",
+    "Map",
+    "Data",
+    "Visualization"
+  ],
+  "author": "Aakash Kishan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aakashkishan/Maps_Data_Viz/issues"
+  },
+  "homepage": "https://github.com/aakashkishan/Maps_Data_Viz#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
